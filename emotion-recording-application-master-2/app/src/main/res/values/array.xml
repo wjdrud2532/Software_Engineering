@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="spinner_array">
+        <item>레이더 차트</item>
+        <item>파이 차트</item>
+        <item>막대 차트</item>
+    </string-array>
+</resources>

@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">software engineering</string>
+
+    <string name="up_arrow">▲</string>
+    <string name="down_arrow">▼</string>
+    <string name="plus">+</string>
+    <string name="bullet">•</string>
+    <string name="bullet_space">• </string>
+    <string name="percent">%</string>
+
+    <string name="grinning_face_emoji">😀</string>
+    <string name="grinning_face_with_big_eyes">😄</string>
+    <string name="face_with_tears_of_joy">😂</string>
+    <string name="smiling_face_with_halo">😇</string>
+    <string name="winking_face">😉</string>
+    <string name="smiling_face_with_heart_eyes">😍</string>
+    <string name="sleepy_face">😪</string>
+    <string name="grinning_face_with_smiling_eyes">😄</string>
+    <string name="crying_face">😢</string>
+    <string name="angry_face">😠</string>
+    <string name="face_with_hand_over_mouth">🤭</string>
+    <string name="star_struck">🤩</string>
+    <string name="enraged_face">😡</string>
+    <string name="sunny">☀</string>
+    <string name="rain">☔</string>
+    <string name="cloud">☁</string>
+
+    <string name="select_emotion">이모티콘을 선택해주세요</string>
+    <string name="complete_select_emotion">이모티콘을 선택하셨습니다.</string>
+    <string name="input_emotion">감정을 입력해주세요</string>
+    <string name="write_emotion_detail">감정에 대한 설명을 작성해주세요</string>
+    <string name="select_a_similar_emotion">유사한 감정을 선택해주세요</string>
+    <string name="input_keyword">키워드를 입력해주세요</string>
+    <string name="write_description">설명을 작성해주세요</string>
+
+    <string name="confirm">확인</string>
+    <string name="pleasure">기쁨</string>
+    <string name="sadness">슬픔</string>
+    <string name="aggro">화남</string>
+    <string name="flutter">설렘</string>
+    <string name="excited">신남</string>
+    <string name="annoyance">짜증</string>
+    <string name="weather">날씨</string>
+    <string name="emotion_statement">감정 상태</string>
+    <string name="emotion_statistics">감정 통계</string>
+    <string name="statistics_content">통계 내용</string>
+    <string name="view_by_weather">날씨로 보기</string>
+    <string name="weather_statement">날씨 상태</string>
+    <string name="recording..">감정 기록중...</string>
+    <string name="priority">우선순위</string>
+    <string name="times">회</string>
+
+    <string name="home">Home</string>
+    <string name="next">Next</string>
+    <string name="weather_english">Weather</string>
+    <string name="back">Back</string>
+    <string name="emotionId">emotionId</string>
+    <string name="customEmotionImage">customEmotionImage</string>
+    <string name="customEmotionTitle">customEmotionTitle</string>
+    <string name="customEmotionDescription">customEmotionDescription</string>
+    <string name="similarEmotion">similarEmotion</string>
+    <string name="recordEmotionSharedPreferencesKey">recordEmotion</string>
+    <string name="emotionTitle">emotionTitle</string>
+    <string name="default_emotion">default</string>
+    <string name="custom_emotion">custom</string>
+    <string name="emotionType">emotionType</string>
+    <string name="emotionImage">emotionImage</string>
+    <string name="emotionName">emotionName</string>
+    <string name="keyword1">keyword1</string>
+    <string name="keyword2">keyword2</string>
+    <string name="emotionDescriptionEditText">emotionDescriptionEditText</string>
+    <string name="emotions">emotions</string>
+    <string name="content1">content1</string>
+    <string name="content2">content2</string>
+    <string name="content3">content3</string>
+    <string name="content4">content4</string>
+</resources>
